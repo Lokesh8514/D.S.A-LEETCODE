@@ -7,7 +7,7 @@ public:
         unordered_map<string, vector<string>> mp;
         
         // Iterate through each string in the input vector
-        for (auto x : strs) {
+        for (string x : strs) {
             string word = x;              // Make a copy of the current string
             sort(word.begin(), word.end()); // Sort the string alphabetically to create a unique key for anagrams
             mp[word].push_back(x);        // Add the original string to the vector corresponding to the sorted key
