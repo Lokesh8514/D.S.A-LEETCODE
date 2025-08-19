@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 ## Bit Manipulation
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
