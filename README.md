@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Bit Manipulation
 |  |
 | ------- |
