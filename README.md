@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Brainteaser
 |  |
