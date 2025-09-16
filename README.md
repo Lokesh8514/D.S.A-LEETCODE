@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0326-power-of-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3830-find-closest-person) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
