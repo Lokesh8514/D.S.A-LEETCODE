@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
