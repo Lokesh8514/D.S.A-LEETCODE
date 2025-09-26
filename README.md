@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
+| [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
+| [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 ## Queue
 |  |
 | ------- |
