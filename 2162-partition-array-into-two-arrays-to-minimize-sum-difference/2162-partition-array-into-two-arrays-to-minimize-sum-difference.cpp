@@ -45,3 +45,46 @@ public:
         
     }
 };
+// class Solution {
+// public:
+//     int minimumDifference(vector<int>& nums) {
+//         int n = nums.size();
+//         int tot_Sum = 0;
+//         for (int num : nums)
+//             tot_Sum += num;
+//         tot_Sum=tot_Sum/2;
+//         vector<vector<bool>> dp(n, vector<bool>(tot_Sum+1, 0));
+//         for (int i = 0; i < n; i++) {
+//             dp[i][0] = true;
+//         }
+
+//             // Initialize the first row based on the first element of the array
+//             if (nums[0] <= tot_Sum)
+//                 dp[0][tot_Sum] = true;
+
+//             // Fill in the DP table using a bottom-up approach
+//             for (int ind = 1; ind < n; ind++) {
+//                 for (int target = 1; target <= tot_Sum; target++) {
+//                     // Exclude the current element
+//                     bool notTaken = dp[ind - 1][target];
+
+//                     // Include the current element if it doesn't exceed the
+//                     // target
+//                     bool taken = false;
+//                     if (nums[ind] <= target)
+//                         taken = dp[ind - 1][target - nums[ind]];
+
+//                     dp[ind][target] = notTaken || taken;
+//                 }
+//             }
+//             int mini = 1e9;
+//             for (int i = 0; i <= tot_Sum; i++) {
+//                 if (dp[n - 1][i] == true) {
+//                     // Calculate the absolute difference between two subset sums
+//                     int diff = abs(i - (tot_Sum - i));
+//                     mini = min(mini, diff);
+//                 }
+//             }
+//             return mini;
+//         }
+//     };
