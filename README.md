@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0078-subsets) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 ## Backtracking
 |  |
@@ -211,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0830-largest-triangle-area) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
