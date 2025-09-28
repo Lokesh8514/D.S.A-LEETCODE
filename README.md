@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 ## Queue
 |  |
 | ------- |
