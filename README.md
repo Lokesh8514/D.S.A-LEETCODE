@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
