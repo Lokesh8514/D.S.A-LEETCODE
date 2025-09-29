@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
