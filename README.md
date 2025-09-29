@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
