@@ -1,5 +1,7 @@
 class Solution(object):
     def removeDuplicates(self, nums):
+        if not nums:
+            return 0
         k=0
         for i in range(1,len(nums)):
             if(nums[i]!=nums[k]):
