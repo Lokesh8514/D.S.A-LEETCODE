@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2529-range-product-queries-of-powers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3830-find-closest-person) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Brainteaser
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
