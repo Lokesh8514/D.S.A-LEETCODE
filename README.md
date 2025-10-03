@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
