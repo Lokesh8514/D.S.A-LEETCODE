@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2032-largest-odd-number-in-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2032-largest-odd-number-in-string) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
