@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0812-rotate-string) |
+| [1170-shortest-common-supersequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1170-shortest-common-supersequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
