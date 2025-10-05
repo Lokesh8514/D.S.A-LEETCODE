@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
