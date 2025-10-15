@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
