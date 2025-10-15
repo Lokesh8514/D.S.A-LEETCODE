@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3797-design-spreadsheet) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
