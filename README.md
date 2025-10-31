@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0416-partition-equal-subset-sum) |
