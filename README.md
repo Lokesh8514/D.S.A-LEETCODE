@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3797-design-spreadsheet) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3797-design-spreadsheet](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
