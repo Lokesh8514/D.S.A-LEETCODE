@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0075-sort-colors) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0213-house-robber-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Lokesh8514/D.S.A-LEETCODE/tree/master/0169-majority-element) |
 ## Breadth-First Search
 |  |
